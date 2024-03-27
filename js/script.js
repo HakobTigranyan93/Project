@@ -482,7 +482,7 @@
         //
         // function plusSlides (n) {
         //     showSlides(slideIndex += n);
-        // }
+        //
         //
         // prev.addEventListener('click', () => {
         //     plusSlides(-1);
